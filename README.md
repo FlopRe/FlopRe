@@ -13,7 +13,7 @@
 
 
 
-<br><p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlopRe&hide_border=true&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
+<br><p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlopRe&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD6E0A&currStreakNum=DDDDDD&stroke=81A9FE2B&sideNums=DDDDDD)](https://git.io/streak-stats)</p>
 
 <br>
 
