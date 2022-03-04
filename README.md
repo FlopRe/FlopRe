@@ -1,15 +1,15 @@
-# 🕸️ Hey! I'm a full-stack developer and love tinkering with PCs, servers, and all things tech 
+# Hey! 🤩 I'm a full-stack developer and love tinkering with PCs, servers, and all things tech 
 <br>
 
 - 💻 I am actively looking for an IT position
 
-- 🕸️ I invest most of my free time into web design & development + System Operation
+- ⌚ I invest most of my free time into Front-end & Back-end development, as well as System Operation
 
 - 🆕 I strive to learn new languages & technologies
 
-- 🗄️ 2022 Goal: Optimization of prepared DB queries. Focus on front-end JS and clear UX. 
+- 🥅 Current Goals: Optimization of prepared DB queries. Focus on front-end JS and clear UX. Contribute mroe to the Open Source community.
 
-- 🗃️ 2023 Goal: New React project to further improve in ReactJS.
+- 🥅 2023 Goal: New React project to further improve in ReactJS.
 
 
 
