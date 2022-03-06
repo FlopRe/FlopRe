@@ -28,8 +28,8 @@
 [![website](./imgs/instagram-light.svg)](https://instagram.com/filipthedev#gh-light-mode-only)
 [![website](./imgs/instagram-dark.svg)](https://instagram.com/filipthedev#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![website](./imgs/email-light.svg)](mailto:filip@rfdevs.com#gh-light-mode-only)
-[![website](./imgs/email-dark.svg)](mailto:filip@rfdevs.com#gh-dark-mode-only)
+[![website](./imgs/email-light.svg)](mailto:filip@rfdevs.com?subject=GitHub%20Enquiry#gh-light-mode-only)
+[![website](./imgs/email-dark.svg)](mailto:filip@rfdevs.com?subject=GitHub%20Enquiry#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><br>
