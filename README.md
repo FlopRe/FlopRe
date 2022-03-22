@@ -7,7 +7,7 @@
 
 - 🆕 I strive to learn new languages & technologies
 
-- 🥅 Current Goals: Optimization of prepared DB queries. Focus on front-end JS and clear UX. Contribute mroe to the Open Source community.
+- 🥅 Current Goals: Optimization of prepared DB queries. Focus on front-end JS and clear UX. Contribute more to the Open Source community.
 
 - 🥅 2023 Goal: New React project to further improve in ReactJS.
 
