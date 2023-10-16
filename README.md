@@ -60,7 +60,7 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp; VPS-hosted & maintainted using Git
 
  - [delidservices.com](https://delidservices.com) An e-commerce site built from the ground up, offering delid & relid services for PC enthusiasts
- - [rfdevs.com](https://rdevs.com) Personal site and other miscellanious things!
+ - [rfdevs.com](https://rfdevs.com) Personal site and other miscellanious things!
 
 <br>
 
